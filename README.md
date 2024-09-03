@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Brian <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Recently I changed careers to pursue Full Stack Web Development with Le Wagon's 24 Week Part-time Bootcamp in Tokyo, Japan</h3>
+<h3 align="center">I am a full stack Web Developer with a comprehensive Engineering background</h3>
 
 - 🔭 I’m currently working with **Ruby, Ruby-on-Rails, JavaScript, HTML, CSS**
 
