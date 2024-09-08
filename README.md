@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me: **Brian.Inphouva@gmail.com**
 
-- ⚡ What I like to do: **I like much basketball, snowboarding and weight training...and coding of course**
+- ⚡ What I like to do: **I like to play basketball, casually snowboard and run + weight training...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
