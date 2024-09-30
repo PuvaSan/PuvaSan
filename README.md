@@ -4,7 +4,7 @@ PuvaSan/PuvaSan is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Brian <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center"><img height ="40" src="https://cdn3.emoji.gg/emojis/27073-hispeechbubble.gif" > 👋, I'm Brian <img height="40" src="https://cdn3.emoji.gg/emojis/2560-luffy12.gif"></h1>
 <h3 align="center">I am a full stack Web Developer with a comprehensive Engineering background</h3>
 
 - 🔭 I’m currently working with **Ruby, Ruby-on-Rails, JavaScript, HTML, CSS**
@@ -47,10 +47,16 @@ You can click the Preview link to take a look at your changes.
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://github.com/detain/svg-logos/blob/master/svg/t/tailwindcss.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=PuvaSan&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=puvasan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=93b6ff&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuvaSan&theme=react&layout=compact" />
 </p>
 
