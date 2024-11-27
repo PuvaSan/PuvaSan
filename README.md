@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working with **Ruby, Ruby-on-Rails, JavaScript, HTML, CSS**
 
-- 🌱 I’m currently learning **React, Next.js, & TypesScript**
+- 🌱 I’m currently learning **React, Next.js, vue.js & TypesScript**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
