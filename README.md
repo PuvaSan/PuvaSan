@@ -13,8 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **Brian.Inphouva@gmail.com**
-
 - ⚡ What I like to do: **I like to play basketball, casually snowboard and run + weight training...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
